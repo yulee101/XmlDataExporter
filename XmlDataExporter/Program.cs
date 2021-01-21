@@ -5,6 +5,13 @@ namespace XmlDataExporter
 {
     class Program
     {
+
+        /*TODO:
+         * - Unittests
+         * - Darstellung der exportierten Daten auf der Konsole oder in WPF Form (Bisher werden die Daten nur in einem Objekt gespeichert
+         * Ziel ist, dass die Daten vielleicht von einem DataHandler aufgegriffen werden und dann in Excel exportiert werden
+         * 
+         */
         static void Main(string[] args)
         {
             string folderDirectory = String.Empty;
