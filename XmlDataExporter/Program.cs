@@ -9,7 +9,7 @@ namespace XmlDataExporter
         {
             string folderDirectory = String.Empty;
             do {
-                Console.WriteLine("Bitte geben Sie einen gültigen Pfad ein.");
+                Console.WriteLine("Bitte geben Sie einen gültigen Pfad ein:");
                 folderDirectory = Console.ReadLine();
             } while (!InputValidator.CheckInputForValidity(folderDirectory));
 
