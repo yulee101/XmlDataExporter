@@ -1,0 +1,12 @@
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlDataReader.exe
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlDataReader.deps.json
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlDataReader.runtimeconfig.json
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlDataReader.runtimeconfig.dev.json
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlDataReader.dll
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlDataReader.pdb
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlDataReader.AssemblyInfoInputs.cache
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlDataReader.AssemblyInfo.cs
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlDataReader.csproj.CoreCompileInputs.cache
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlDataReader.dll
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlDataReader.pdb
+C:\Users\Yun Lee\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlDataReader.genruntimeconfig.cache

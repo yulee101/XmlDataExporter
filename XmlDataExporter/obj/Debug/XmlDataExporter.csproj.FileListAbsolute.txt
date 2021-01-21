@@ -1,0 +1,7 @@
+C:\Users\Yun Lee\source\repos\XmlReader\XmlDataExporter\obj\Debug\XmlDataExporter.csprojAssemblyReference.cache
+C:\Users\Yun Lee\source\repos\XmlReader\XmlDataExporter\obj\Debug\XmlDataExporter.csproj.CoreCompileInputs.cache
+C:\Users\Yun Lee\source\repos\XmlReader\XmlDataExporter\bin\Debug\XmlDataExporter.exe.config
+C:\Users\Yun Lee\source\repos\XmlReader\XmlDataExporter\bin\Debug\XmlDataExporter.exe
+C:\Users\Yun Lee\source\repos\XmlReader\XmlDataExporter\bin\Debug\XmlDataExporter.pdb
+C:\Users\Yun Lee\source\repos\XmlReader\XmlDataExporter\obj\Debug\XmlDataExporter.exe
+C:\Users\Yun Lee\source\repos\XmlReader\XmlDataExporter\obj\Debug\XmlDataExporter.pdb
